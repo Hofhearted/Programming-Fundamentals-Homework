@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\H LogsAggregator\bin\Debug\H LogsAggregator.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\H LogsAggregator\bin\Debug\H LogsAggregator.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\H LogsAggregator\bin\Debug\H LogsAggregator.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\H LogsAggregator\obj\Debug\H LogsAggregator.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\H LogsAggregator\obj\Debug\H LogsAggregator.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\H LogsAggregator\obj\Debug\H LogsAggregator.pdb

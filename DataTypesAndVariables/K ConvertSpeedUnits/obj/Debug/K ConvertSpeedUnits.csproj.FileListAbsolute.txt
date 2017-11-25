@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\K ConvertSpeedUnits\bin\Debug\K ConvertSpeedUnits.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\K ConvertSpeedUnits\bin\Debug\K ConvertSpeedUnits.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\K ConvertSpeedUnits\bin\Debug\K ConvertSpeedUnits.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\K ConvertSpeedUnits\obj\Debug\K ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\K ConvertSpeedUnits\obj\Debug\K ConvertSpeedUnits.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\K ConvertSpeedUnits\obj\Debug\K ConvertSpeedUnits.pdb

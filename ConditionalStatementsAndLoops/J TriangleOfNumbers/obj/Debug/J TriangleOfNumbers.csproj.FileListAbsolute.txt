@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\J TriangleOfNumbers\bin\Debug\J TriangleOfNumbers.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\J TriangleOfNumbers\bin\Debug\J TriangleOfNumbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\J TriangleOfNumbers\bin\Debug\J TriangleOfNumbers.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\J TriangleOfNumbers\obj\Debug\J TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\J TriangleOfNumbers\obj\Debug\J TriangleOfNumbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\J TriangleOfNumbers\obj\Debug\J TriangleOfNumbers.pdb

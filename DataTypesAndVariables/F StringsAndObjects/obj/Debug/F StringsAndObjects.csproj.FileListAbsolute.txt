@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\F StringsAndObjects\bin\Debug\F StringsAndObjects.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\F StringsAndObjects\bin\Debug\F StringsAndObjects.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\F StringsAndObjects\bin\Debug\F StringsAndObjects.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\F StringsAndObjects\obj\Debug\F StringsAndObjects.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\F StringsAndObjects\obj\Debug\F StringsAndObjects.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\F StringsAndObjects\obj\Debug\F StringsAndObjects.pdb

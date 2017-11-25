@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\C RestDiscount\bin\Debug\C RestDiscount.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\C RestDiscount\bin\Debug\C RestDiscount.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\C RestDiscount\bin\Debug\C RestDiscount.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\C RestDiscount\obj\Debug\C RestDiscount.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\C RestDiscount\obj\Debug\C RestDiscount.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\C RestDiscount\obj\Debug\C RestDiscount.pdb

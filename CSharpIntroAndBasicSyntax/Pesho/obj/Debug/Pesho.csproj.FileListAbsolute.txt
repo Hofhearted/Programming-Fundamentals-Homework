@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\Pesho\bin\Debug\Pesho.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\Pesho\bin\Debug\Pesho.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\Pesho\bin\Debug\Pesho.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\Pesho\obj\Debug\Pesho.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\Pesho\obj\Debug\Pesho.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\Pesho\obj\Debug\Pesho.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\Pesho\obj\Debug\Pesho.pdb

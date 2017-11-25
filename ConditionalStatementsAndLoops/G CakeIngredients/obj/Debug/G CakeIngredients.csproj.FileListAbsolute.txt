@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\G CakeIngredients\bin\Debug\G CakeIngredients.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\G CakeIngredients\bin\Debug\G CakeIngredients.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\G CakeIngredients\bin\Debug\G CakeIngredients.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\G CakeIngredients\obj\Debug\G CakeIngredients.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\G CakeIngredients\obj\Debug\G CakeIngredients.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\G CakeIngredients\obj\Debug\G CakeIngredients.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\G CakeIngredients\obj\Debug\G CakeIngredients.pdb

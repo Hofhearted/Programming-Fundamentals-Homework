@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\J CentToNanoseconds\bin\Debug\J CentToNanoseconds.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\J CentToNanoseconds\bin\Debug\J CentToNanoseconds.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\J CentToNanoseconds\bin\Debug\J CentToNanoseconds.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\J CentToNanoseconds\obj\Debug\J CentToNanoseconds.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\J CentToNanoseconds\obj\Debug\J CentToNanoseconds.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\J CentToNanoseconds\obj\Debug\J CentToNanoseconds.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\J CentToNanoseconds\obj\Debug\J CentToNanoseconds.csprojResolveAssemblyReference.cache

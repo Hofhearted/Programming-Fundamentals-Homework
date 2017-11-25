@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\D VariableInHexFormat\bin\Debug\D VariableInHexFormat.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\D VariableInHexFormat\bin\Debug\D VariableInHexFormat.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\D VariableInHexFormat\bin\Debug\D VariableInHexFormat.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\D VariableInHexFormat\obj\Debug\D VariableInHexFormat.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\D VariableInHexFormat\obj\Debug\D VariableInHexFormat.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\D VariableInHexFormat\obj\Debug\D VariableInHexFormat.pdb

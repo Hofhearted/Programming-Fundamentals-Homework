@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\Q PartOfASCIITable\bin\Debug\Q PartOfASCIITable.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\Q PartOfASCIITable\bin\Debug\Q PartOfASCIITable.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\Q PartOfASCIITable\bin\Debug\Q PartOfASCIITable.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\Q PartOfASCIITable\obj\Debug\Q PartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\Q PartOfASCIITable\obj\Debug\Q PartOfASCIITable.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\Q PartOfASCIITable\obj\Debug\Q PartOfASCIITable.pdb

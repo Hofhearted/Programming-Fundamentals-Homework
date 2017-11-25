@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\P ComparingFloats\bin\Debug\P ComparingFloats.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\P ComparingFloats\bin\Debug\P ComparingFloats.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\P ComparingFloats\bin\Debug\P ComparingFloats.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\P ComparingFloats\obj\Debug\P ComparingFloats.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\P ComparingFloats\obj\Debug\P ComparingFloats.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\P ComparingFloats\obj\Debug\P ComparingFloats.pdb

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousCache\bin\Debug\AnonymousCache.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousCache\bin\Debug\AnonymousCache.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousCache\bin\Debug\AnonymousCache.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousCache\obj\Debug\AnonymousCache.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousCache\obj\Debug\AnonymousCache.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousCache\obj\Debug\AnonymousCache.pdb

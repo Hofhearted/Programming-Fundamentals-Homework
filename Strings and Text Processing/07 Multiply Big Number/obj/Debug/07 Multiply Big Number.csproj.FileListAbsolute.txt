@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\07 Multiply Big Number\bin\Debug\07 Multiply Big Number.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\07 Multiply Big Number\bin\Debug\07 Multiply Big Number.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\07 Multiply Big Number\bin\Debug\07 Multiply Big Number.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\07 Multiply Big Number\obj\Debug\07 Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\07 Multiply Big Number\obj\Debug\07 Multiply Big Number.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\07 Multiply Big Number\obj\Debug\07 Multiply Big Number.pdb

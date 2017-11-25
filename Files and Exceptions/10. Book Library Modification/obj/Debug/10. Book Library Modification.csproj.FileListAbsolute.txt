@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\10. Book Library Modification\bin\Debug\_10.Book_Library_Modification.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\10. Book Library Modification\bin\Debug\_10.Book_Library_Modification.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\10. Book Library Modification\bin\Debug\_10.Book_Library_Modification.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\10. Book Library Modification\obj\Debug\10. Book Library Modification.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\10. Book Library Modification\obj\Debug\_10.Book_Library_Modification.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\10. Book Library Modification\obj\Debug\_10.Book_Library_Modification.pdb

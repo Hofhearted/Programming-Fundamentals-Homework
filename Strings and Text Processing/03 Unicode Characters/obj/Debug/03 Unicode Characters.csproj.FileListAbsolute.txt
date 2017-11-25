@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\03 Unicode Characters\bin\Debug\03 Unicode Characters.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\03 Unicode Characters\bin\Debug\03 Unicode Characters.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\03 Unicode Characters\bin\Debug\03 Unicode Characters.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\03 Unicode Characters\obj\Debug\03 Unicode Characters.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\03 Unicode Characters\obj\Debug\03 Unicode Characters.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\03 Unicode Characters\obj\Debug\03 Unicode Characters.pdb

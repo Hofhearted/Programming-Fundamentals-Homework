@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\ZeLab\bin\Debug\ZeLab.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\ZeLab\bin\Debug\ZeLab.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\ZeLab\bin\Debug\ZeLab.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\ZeLab\obj\Debug\ZeLab.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\ZeLab\obj\Debug\ZeLab.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\ZeLab\obj\Debug\ZeLab.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\ZeLab\obj\Debug\ZeLab.pdb

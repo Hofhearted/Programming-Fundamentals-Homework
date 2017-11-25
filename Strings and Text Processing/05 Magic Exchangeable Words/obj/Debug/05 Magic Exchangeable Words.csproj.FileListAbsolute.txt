@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\05 Magic Exchangeable Words\bin\Debug\05 Magic Exchangeable Words.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\05 Magic Exchangeable Words\bin\Debug\05 Magic Exchangeable Words.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\05 Magic Exchangeable Words\bin\Debug\05 Magic Exchangeable Words.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\05 Magic Exchangeable Words\obj\Debug\05 Magic Exchangeable Words.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\05 Magic Exchangeable Words\obj\Debug\05 Magic Exchangeable Words.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\05 Magic Exchangeable Words\obj\Debug\05 Magic Exchangeable Words.pdb

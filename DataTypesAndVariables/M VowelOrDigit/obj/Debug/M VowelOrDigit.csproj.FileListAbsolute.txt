@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\M VowelOrDigit\bin\Debug\M VowelOrDigit.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\M VowelOrDigit\bin\Debug\M VowelOrDigit.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\M VowelOrDigit\bin\Debug\M VowelOrDigit.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\M VowelOrDigit\obj\Debug\M VowelOrDigit.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\M VowelOrDigit\obj\Debug\M VowelOrDigit.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\M VowelOrDigit\obj\Debug\M VowelOrDigit.pdb

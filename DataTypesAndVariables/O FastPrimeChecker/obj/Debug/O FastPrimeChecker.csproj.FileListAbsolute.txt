@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\O FastPrimeChecker\obj\Debug\O FastPrimeChecker.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\O FastPrimeChecker\bin\Debug\O FastPrimeChecker.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\O FastPrimeChecker\bin\Debug\O FastPrimeChecker.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\O FastPrimeChecker\bin\Debug\O FastPrimeChecker.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\O FastPrimeChecker\obj\Debug\O FastPrimeChecker.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\O FastPrimeChecker\obj\Debug\O FastPrimeChecker.pdb

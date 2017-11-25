@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\F UserLogs\bin\Debug\F UserLogs.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\F UserLogs\bin\Debug\F UserLogs.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\F UserLogs\bin\Debug\F UserLogs.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\F UserLogs\obj\Debug\F UserLogs.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\F UserLogs\obj\Debug\F UserLogs.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\F UserLogs\obj\Debug\F UserLogs.pdb

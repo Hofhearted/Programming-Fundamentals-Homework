@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Q BePositive\bin\Debug\Q BePositive.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Q BePositive\bin\Debug\Q BePositive.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Q BePositive\bin\Debug\Q BePositive.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Q BePositive\obj\Debug\Q BePositive.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Q BePositive\obj\Debug\Q BePositive.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Q BePositive\obj\Debug\Q BePositive.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Q BePositive\obj\Debug\Q BePositive.csprojResolveAssemblyReference.cache

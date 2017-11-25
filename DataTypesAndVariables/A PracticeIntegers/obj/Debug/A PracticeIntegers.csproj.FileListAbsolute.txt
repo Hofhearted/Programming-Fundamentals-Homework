@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\A PracticeIntegers\bin\Debug\A PracticeIntegers.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\A PracticeIntegers\bin\Debug\A PracticeIntegers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\A PracticeIntegers\bin\Debug\A PracticeIntegers.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\A PracticeIntegers\obj\Debug\A PracticeIntegers.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\A PracticeIntegers\obj\Debug\A PracticeIntegers.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\A PracticeIntegers\obj\Debug\A PracticeIntegers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\A PracticeIntegers\obj\Debug\A PracticeIntegers.pdb

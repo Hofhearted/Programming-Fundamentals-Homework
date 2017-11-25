@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\08 Letters Change Numbers\bin\Debug\08 Letters Change Numbers.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\08 Letters Change Numbers\bin\Debug\08 Letters Change Numbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\08 Letters Change Numbers\bin\Debug\08 Letters Change Numbers.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\08 Letters Change Numbers\obj\Debug\08 Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\08 Letters Change Numbers\obj\Debug\08 Letters Change Numbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\08 Letters Change Numbers\obj\Debug\08 Letters Change Numbers.pdb

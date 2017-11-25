@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\04. Average Grades\bin\Debug\_04.Average_Grades.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\04. Average Grades\bin\Debug\_04.Average_Grades.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\04. Average Grades\bin\Debug\_04.Average_Grades.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\04. Average Grades\obj\Debug\04. Average Grades.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\04. Average Grades\obj\Debug\_04.Average_Grades.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\04. Average Grades\obj\Debug\_04.Average_Grades.pdb

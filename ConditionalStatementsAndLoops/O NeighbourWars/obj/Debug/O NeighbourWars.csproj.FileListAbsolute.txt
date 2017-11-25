@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\O NeighbourWars\bin\Debug\O NeighbourWars.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\O NeighbourWars\bin\Debug\O NeighbourWars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\O NeighbourWars\bin\Debug\O NeighbourWars.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\O NeighbourWars\obj\Debug\O NeighbourWars.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\O NeighbourWars\obj\Debug\O NeighbourWars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\O NeighbourWars\obj\Debug\O NeighbourWars.pdb

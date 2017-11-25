@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\RectangleArea\obj\Debug\RectangleArea.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\RectangleArea\obj\Debug\RectangleArea.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\RectangleArea\obj\Debug\RectangleArea.csprojResolveAssemblyReference.cache

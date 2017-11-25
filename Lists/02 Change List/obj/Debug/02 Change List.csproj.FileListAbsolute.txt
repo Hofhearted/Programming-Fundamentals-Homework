@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Lists\02 Change List\bin\Debug\02 Change List.exe.config
+D:\Games\Games\Information\Projects\Software University\Lists\02 Change List\bin\Debug\02 Change List.exe
+D:\Games\Games\Information\Projects\Software University\Lists\02 Change List\bin\Debug\02 Change List.pdb
+D:\Games\Games\Information\Projects\Software University\Lists\02 Change List\obj\Debug\02 Change List.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Lists\02 Change List\obj\Debug\02 Change List.exe
+D:\Games\Games\Information\Projects\Software University\Lists\02 Change List\obj\Debug\02 Change List.pdb

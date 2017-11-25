@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\06. Fix Emails\bin\Debug\_06.Fix_Emails.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\06. Fix Emails\bin\Debug\_06.Fix_Emails.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\06. Fix Emails\bin\Debug\_06.Fix_Emails.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\06. Fix Emails\obj\Debug\06. Fix Emails.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\06. Fix Emails\obj\Debug\_06.Fix_Emails.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\06. Fix Emails\obj\Debug\_06.Fix_Emails.pdb

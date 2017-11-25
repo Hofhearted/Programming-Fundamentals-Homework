@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\09. Teamwork Projects\obj\Debug\09. Teamwork Projects.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.pdb

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\08. Mentor Group\bin\Debug\_08.Mentor_Group.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\08. Mentor Group\obj\Debug\08. Mentor Group.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\08. Mentor Group\obj\Debug\_08.Mentor_Group.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\08. Mentor Group\obj\Debug\_08.Mentor_Group.pdb

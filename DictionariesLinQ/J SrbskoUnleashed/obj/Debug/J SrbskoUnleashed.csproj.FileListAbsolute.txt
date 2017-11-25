@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\J SrbskoUnleashed\bin\Debug\J SrbskoUnleashed.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\J SrbskoUnleashed\bin\Debug\J SrbskoUnleashed.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\J SrbskoUnleashed\bin\Debug\J SrbskoUnleashed.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\J SrbskoUnleashed\obj\Debug\J SrbskoUnleashed.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\J SrbskoUnleashed\obj\Debug\J SrbskoUnleashed.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\J SrbskoUnleashed\obj\Debug\J SrbskoUnleashed.pdb

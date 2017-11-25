@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\A Phonebook\bin\Debug\A Phonebook.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\A Phonebook\bin\Debug\A Phonebook.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\A Phonebook\bin\Debug\A Phonebook.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\A Phonebook\obj\Debug\A Phonebook.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\A Phonebook\obj\Debug\A Phonebook.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\A Phonebook\obj\Debug\A Phonebook.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\A Phonebook\obj\Debug\A Phonebook.pdb

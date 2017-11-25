@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\F PrimeChecker\bin\Debug\F PrimeChecker.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\F PrimeChecker\bin\Debug\F PrimeChecker.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\F PrimeChecker\bin\Debug\F PrimeChecker.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\F PrimeChecker\obj\Debug\F PrimeChecker.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\F PrimeChecker\obj\Debug\F PrimeChecker.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\F PrimeChecker\obj\Debug\F PrimeChecker.pdb

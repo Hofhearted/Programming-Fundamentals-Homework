@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\E CharacterStats\bin\Debug\E CharacterStats.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\E CharacterStats\bin\Debug\E CharacterStats.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\E CharacterStats\bin\Debug\E CharacterStats.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\E CharacterStats\obj\Debug\E CharacterStats.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\E CharacterStats\obj\Debug\E CharacterStats.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\E CharacterStats\obj\Debug\E CharacterStats.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\E CharacterStats\obj\Debug\E CharacterStats.pdb

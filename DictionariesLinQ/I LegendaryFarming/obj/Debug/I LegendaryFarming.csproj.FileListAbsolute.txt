@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\I LegendaryFarming\bin\Debug\I LegendaryFarming.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\I LegendaryFarming\bin\Debug\I LegendaryFarming.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\I LegendaryFarming\bin\Debug\I LegendaryFarming.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\I LegendaryFarming\obj\Debug\I LegendaryFarming.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\I LegendaryFarming\obj\Debug\I LegendaryFarming.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\I LegendaryFarming\obj\Debug\I LegendaryFarming.pdb

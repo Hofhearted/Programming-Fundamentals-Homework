@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\05. Key Replacer\bin\Debug\_05.Key_Replacer.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\05. Key Replacer\obj\Debug\05. Key Replacer.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\05. Key Replacer\obj\Debug\_05.Key_Replacer.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\05. Key Replacer\obj\Debug\_05.Key_Replacer.pdb

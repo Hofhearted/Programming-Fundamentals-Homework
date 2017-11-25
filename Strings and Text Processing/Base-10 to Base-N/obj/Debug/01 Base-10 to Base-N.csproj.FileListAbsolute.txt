@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\Base-10 to Base-N\bin\Debug\Base-10 to Base-N.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\Base-10 to Base-N\bin\Debug\Base-10 to Base-N.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\Base-10 to Base-N\bin\Debug\Base-10 to Base-N.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\Base-10 to Base-N\obj\Debug\01 Base-10 to Base-N.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\Base-10 to Base-N\obj\Debug\01 Base-10 to Base-N.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\Base-10 to Base-N\obj\Debug\Base-10 to Base-N.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\Base-10 to Base-N\obj\Debug\Base-10 to Base-N.pdb

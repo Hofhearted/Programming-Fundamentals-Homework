@@ -1,0 +1,14 @@
+D:\Games\Games\Information\Projects\Software University\Methods\Methods\bin\Debug\Methods.exe.config
+D:\Games\Games\Information\Projects\Software University\Methods\Methods\bin\Debug\Methods.exe
+D:\Games\Games\Information\Projects\Software University\Methods\Methods\bin\Debug\Methods.pdb
+D:\Games\Games\Information\Projects\Software University\Methods\Methods\obj\Debug\Ze Lab.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Methods\Methods\obj\Debug\Ze Lab.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Methods\Methods\obj\Debug\Methods.exe
+D:\Games\Games\Information\Projects\Software University\Methods\Methods\obj\Debug\Methods.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Methods\bin\Debug\Methods.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Methods\bin\Debug\Methods.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Methods\bin\Debug\Methods.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Methods\obj\Debug\Ze Lab.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Methods\obj\Debug\Ze Lab.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Methods\obj\Debug\Methods.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\Methods\obj\Debug\Methods.pdb

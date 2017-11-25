@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\N MagicLetter\bin\Debug\N MagicLetter.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\N MagicLetter\bin\Debug\N MagicLetter.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\N MagicLetter\bin\Debug\N MagicLetter.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\N MagicLetter\obj\Debug\N MagicLetter.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\N MagicLetter\obj\Debug\N MagicLetter.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\N MagicLetter\obj\Debug\N MagicLetter.pdb

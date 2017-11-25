@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\04 MaxSequenceofEqualElements\bin\Debug\04 MaxSequenceofEqualElements.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\04 MaxSequenceofEqualElements\bin\Debug\04 MaxSequenceofEqualElements.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\04 MaxSequenceofEqualElements\bin\Debug\04 MaxSequenceofEqualElements.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\04 MaxSequenceofEqualElements\obj\Debug\04 MaxSequenceofEqualElements.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\04 MaxSequenceofEqualElements\obj\Debug\04 MaxSequenceofEqualElements.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\04 MaxSequenceofEqualElements\obj\Debug\04 MaxSequenceofEqualElements.pdb

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\08. Average Grades\bin\Debug\_08.Average_Grades.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\08. Average Grades\bin\Debug\_08.Average_Grades.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\08. Average Grades\bin\Debug\_08.Average_Grades.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\08. Average Grades\obj\Debug\08. Average Grades.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\08. Average Grades\obj\Debug\_08.Average_Grades.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\08. Average Grades\obj\Debug\_08.Average_Grades.pdb

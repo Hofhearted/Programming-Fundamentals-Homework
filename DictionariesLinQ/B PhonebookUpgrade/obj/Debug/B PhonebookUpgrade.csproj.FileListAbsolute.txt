@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\B PhonebookUpgrade\bin\Debug\B PhonebookUpgrade.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\B PhonebookUpgrade\bin\Debug\B PhonebookUpgrade.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\B PhonebookUpgrade\bin\Debug\B PhonebookUpgrade.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\B PhonebookUpgrade\obj\Debug\B PhonebookUpgrade.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\B PhonebookUpgrade\obj\Debug\B PhonebookUpgrade.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\B PhonebookUpgrade\obj\Debug\B PhonebookUpgrade.pdb

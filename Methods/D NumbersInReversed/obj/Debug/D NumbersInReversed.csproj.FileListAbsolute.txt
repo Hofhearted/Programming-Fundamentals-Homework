@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\D NumbersInReversed\bin\Debug\D NumbersInReversed.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\D NumbersInReversed\bin\Debug\D NumbersInReversed.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\D NumbersInReversed\bin\Debug\D NumbersInReversed.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\D NumbersInReversed\obj\Debug\D NumbersInReversed.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\D NumbersInReversed\obj\Debug\D NumbersInReversed.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\D NumbersInReversed\obj\Debug\D NumbersInReversed.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\D NumbersInReversed\obj\Debug\D NumbersInReversed.pdb

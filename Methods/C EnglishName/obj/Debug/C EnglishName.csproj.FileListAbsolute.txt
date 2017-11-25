@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\C EnglishName\bin\Debug\C EnglishName.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\C EnglishName\bin\Debug\C EnglishName.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\C EnglishName\bin\Debug\C EnglishName.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\C EnglishName\obj\Debug\C EnglishName.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\C EnglishName\obj\Debug\C EnglishName.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\C EnglishName\obj\Debug\C EnglishName.pdb

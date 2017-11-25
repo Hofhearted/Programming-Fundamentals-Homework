@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymosVox\bin\Debug\AnonymosVox.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymosVox\bin\Debug\AnonymosVox.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymosVox\bin\Debug\AnonymosVox.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymosVox\obj\Debug\AnonymosVox.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymosVox\obj\Debug\AnonymosVox.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymosVox\obj\Debug\AnonymosVox.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymosVox\obj\Debug\AnonymosVox.pdb

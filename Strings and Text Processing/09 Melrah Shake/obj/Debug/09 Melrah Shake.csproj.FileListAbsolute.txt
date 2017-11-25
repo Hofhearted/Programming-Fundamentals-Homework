@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\09 Melrah Shake\bin\Debug\09 Melrah Shake.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\09 Melrah Shake\bin\Debug\09 Melrah Shake.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\09 Melrah Shake\bin\Debug\09 Melrah Shake.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\09 Melrah Shake\obj\Debug\09 Melrah Shake.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\09 Melrah Shake\obj\Debug\09 Melrah Shake.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\09 Melrah Shake\obj\Debug\09 Melrah Shake.pdb

@@ -1,0 +1,14 @@
+D:\Games\Games\Information\Projects\Software University\ObjectsAndClasses\Ze Lab\bin\Debug\Ze Lab.exe.config
+D:\Games\Games\Information\Projects\Software University\ObjectsAndClasses\Ze Lab\bin\Debug\Ze Lab.exe
+D:\Games\Games\Information\Projects\Software University\ObjectsAndClasses\Ze Lab\bin\Debug\Ze Lab.pdb
+D:\Games\Games\Information\Projects\Software University\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.exe
+D:\Games\Games\Information\Projects\Software University\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\Ze Lab\bin\Debug\Ze Lab.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\Ze Lab\bin\Debug\Ze Lab.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\Ze Lab\bin\Debug\Ze Lab.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\Ze Lab\obj\Debug\Ze Lab.pdb

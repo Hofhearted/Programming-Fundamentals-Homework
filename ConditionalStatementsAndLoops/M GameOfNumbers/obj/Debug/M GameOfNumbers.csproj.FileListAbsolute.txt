@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\M GameOfNumbers\bin\Debug\M GameOfNumbers.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\M GameOfNumbers\bin\Debug\M GameOfNumbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\M GameOfNumbers\bin\Debug\M GameOfNumbers.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\M GameOfNumbers\obj\Debug\M GameOfNumbers.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\M GameOfNumbers\obj\Debug\M GameOfNumbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ConditionalStatementsAndLoops\M GameOfNumbers\obj\Debug\M GameOfNumbers.pdb

@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\01 Most Frequent Number\bin\Debug\01 Most Frequent Number.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\01 Most Frequent Number\bin\Debug\01 Most Frequent Number.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\01 Most Frequent Number\bin\Debug\01 Most Frequent Number.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\01 Most Frequent Number\obj\Debug\01 Most Frequent Number.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\01 Most Frequent Number\obj\Debug\01 Most Frequent Number.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\01 Most Frequent Number\obj\Debug\01 Most Frequent Number.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\01 Most Frequent Number\obj\Debug\01 Most Frequent Number.pdb

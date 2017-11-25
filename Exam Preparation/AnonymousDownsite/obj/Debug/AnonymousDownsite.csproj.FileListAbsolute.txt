@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousDownsite\bin\Debug\AnonymousDownsite.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousDownsite\bin\Debug\AnonymousDownsite.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousDownsite\bin\Debug\AnonymousDownsite.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousDownsite\obj\Debug\AnonymousDownsite.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousDownsite\obj\Debug\AnonymousDownsite.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousDownsite\obj\Debug\AnonymousDownsite.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\AnonymousDownsite\obj\Debug\AnonymousDownsite.pdb

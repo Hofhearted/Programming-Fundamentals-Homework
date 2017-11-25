@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\BeverageLabels\obj\Debug\D BeverageLabels.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\CSharpIntroAndBasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.pdb

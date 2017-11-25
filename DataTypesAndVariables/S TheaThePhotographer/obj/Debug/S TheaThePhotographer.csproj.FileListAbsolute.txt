@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\S TheaThePhotographer\bin\Debug\S TheaThePhotographer.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\S TheaThePhotographer\bin\Debug\S TheaThePhotographer.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\S TheaThePhotographer\bin\Debug\S TheaThePhotographer.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\S TheaThePhotographer\obj\Debug\S TheaThePhotographer.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\S TheaThePhotographer\obj\Debug\S TheaThePhotographer.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\S TheaThePhotographer\obj\Debug\S TheaThePhotographer.pdb

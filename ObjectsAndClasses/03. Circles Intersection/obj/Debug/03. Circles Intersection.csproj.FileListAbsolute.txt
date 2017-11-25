@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\03. Circles Intersection\obj\Debug\03. Circles Intersection.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\05. A Miner Task\bin\Debug\_05.A_Miner_Task.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\05. A Miner Task\bin\Debug\_05.A_Miner_Task.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\05. A Miner Task\bin\Debug\_05.A_Miner_Task.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\05. A Miner Task\obj\Debug\05. A Miner Task.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\05. A Miner Task\obj\Debug\_05.A_Miner_Task.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\05. A Miner Task\obj\Debug\_05.A_Miner_Task.pdb

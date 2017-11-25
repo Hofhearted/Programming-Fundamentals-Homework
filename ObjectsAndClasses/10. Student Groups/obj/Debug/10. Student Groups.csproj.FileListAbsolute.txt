@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\10. Student Groups\bin\Debug\_10.Student_Groups.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\10. Student Groups\bin\Debug\_10.Student_Groups.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\10. Student Groups\bin\Debug\_10.Student_Groups.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\10. Student Groups\obj\Debug\10. Student Groups.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\10. Student Groups\obj\Debug\_10.Student_Groups.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\10. Student Groups\obj\Debug\_10.Student_Groups.pdb

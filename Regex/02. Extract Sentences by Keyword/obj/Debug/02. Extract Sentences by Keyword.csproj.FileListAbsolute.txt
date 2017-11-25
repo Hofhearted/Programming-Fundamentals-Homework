@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Regex\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.pdb

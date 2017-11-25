@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\07. Advertisement Message\bin\Debug\_07.Advertisement_Message.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\07. Advertisement Message\bin\Debug\_07.Advertisement_Message.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\07. Advertisement Message\bin\Debug\_07.Advertisement_Message.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\07. Advertisement Message\obj\Debug\07. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\07. Advertisement Message\obj\Debug\_07.Advertisement_Message.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Files and Exceptions\07. Advertisement Message\obj\Debug\_07.Advertisement_Message.pdb

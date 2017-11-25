@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\B MaxMethod\bin\Debug\B MaxMethod.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\B MaxMethod\bin\Debug\B MaxMethod.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\B MaxMethod\bin\Debug\B MaxMethod.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\B MaxMethod\obj\Debug\B MaxMethod.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\B MaxMethod\obj\Debug\B MaxMethod.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\B MaxMethod\obj\Debug\B MaxMethod.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\B MaxMethod\obj\Debug\B MaxMethod.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\E HandsOfCards\bin\Debug\E HandsOfCards.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\E HandsOfCards\bin\Debug\E HandsOfCards.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\E HandsOfCards\bin\Debug\E HandsOfCards.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\E HandsOfCards\obj\Debug\E HandsOfCards.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\E HandsOfCards\obj\Debug\E HandsOfCards.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\E HandsOfCards\obj\Debug\E HandsOfCards.pdb

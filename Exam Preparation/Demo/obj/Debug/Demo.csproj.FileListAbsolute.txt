@@ -1,0 +1,14 @@
+D:\Games\Games\Information\Projects\Software University\Exam Preparation\Demo\bin\Debug\Demo.exe.config
+D:\Games\Games\Information\Projects\Software University\Exam Preparation\Demo\bin\Debug\Demo.exe
+D:\Games\Games\Information\Projects\Software University\Exam Preparation\Demo\bin\Debug\Demo.pdb
+D:\Games\Games\Information\Projects\Software University\Exam Preparation\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Exam Preparation\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Exam Preparation\Demo\obj\Debug\Demo.exe
+D:\Games\Games\Information\Projects\Software University\Exam Preparation\Demo\obj\Debug\Demo.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\Demo\bin\Debug\Demo.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\Demo\bin\Debug\Demo.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\Demo\bin\Debug\Demo.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\Demo\obj\Debug\Demo.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Exam Preparation\Demo\obj\Debug\Demo.pdb

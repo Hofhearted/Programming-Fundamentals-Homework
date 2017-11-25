@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\N IntToHexAndBinary\obj\Debug\N IntToHexAndBinary.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\N IntToHexAndBinary\bin\Debug\N IntToHexAndBinary.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\N IntToHexAndBinary\bin\Debug\N IntToHexAndBinary.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\N IntToHexAndBinary\bin\Debug\N IntToHexAndBinary.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\N IntToHexAndBinary\obj\Debug\N IntToHexAndBinary.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\N IntToHexAndBinary\obj\Debug\N IntToHexAndBinary.pdb

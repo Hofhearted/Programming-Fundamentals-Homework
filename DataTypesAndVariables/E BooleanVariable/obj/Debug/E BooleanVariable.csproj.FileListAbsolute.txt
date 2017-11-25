@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\E BooleanVariable\bin\Debug\E BooleanVariable.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\E BooleanVariable\bin\Debug\E BooleanVariable.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\E BooleanVariable\bin\Debug\E BooleanVariable.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\E BooleanVariable\obj\Debug\E BooleanVariable.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\E BooleanVariable\obj\Debug\E BooleanVariable.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\E BooleanVariable\obj\Debug\E BooleanVariable.pdb

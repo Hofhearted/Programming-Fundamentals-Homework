@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\L RectangleProperties\bin\Debug\L RectangleProperties.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\L RectangleProperties\bin\Debug\L RectangleProperties.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\L RectangleProperties\bin\Debug\L RectangleProperties.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\L RectangleProperties\obj\Debug\L RectangleProperties.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\L RectangleProperties\obj\Debug\L RectangleProperties.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\L RectangleProperties\obj\Debug\L RectangleProperties.pdb

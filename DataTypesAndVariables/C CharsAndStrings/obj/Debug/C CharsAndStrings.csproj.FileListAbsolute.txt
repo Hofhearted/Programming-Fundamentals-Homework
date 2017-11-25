@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\C CharsAndStrings\bin\Debug\C CharsAndStrings.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\C CharsAndStrings\bin\Debug\C CharsAndStrings.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\C CharsAndStrings\bin\Debug\C CharsAndStrings.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\C CharsAndStrings\obj\Debug\C CharsAndStrings.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\C CharsAndStrings\obj\Debug\C CharsAndStrings.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\C CharsAndStrings\obj\Debug\C CharsAndStrings.pdb

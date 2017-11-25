@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\01. Count Working Days\bin\Debug\_01.Count_Working_Days.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\01. Count Working Days\bin\Debug\_01.Count_Working_Days.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\01. Count Working Days\bin\Debug\_01.Count_Working_Days.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\01. Count Working Days\obj\Debug\01. Count Working Days.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\01. Count Working Days\obj\Debug\01. Count Working Days.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\01. Count Working Days\obj\Debug\_01.Count_Working_Days.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\ObjectsAndClasses\01. Count Working Days\obj\Debug\_01.Count_Working_Days.pdb

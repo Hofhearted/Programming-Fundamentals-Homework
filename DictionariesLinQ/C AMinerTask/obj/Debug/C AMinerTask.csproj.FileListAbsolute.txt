@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\C AMinerTask\bin\Debug\C AMinerTask.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\C AMinerTask\bin\Debug\C AMinerTask.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\C AMinerTask\bin\Debug\C AMinerTask.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\C AMinerTask\obj\Debug\C AMinerTask.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\C AMinerTask\obj\Debug\C AMinerTask.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\C AMinerTask\obj\Debug\C AMinerTask.pdb

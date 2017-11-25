@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\K DragonArmy\bin\Debug\K DragonArmy.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\K DragonArmy\bin\Debug\K DragonArmy.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\K DragonArmy\bin\Debug\K DragonArmy.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\K DragonArmy\obj\Debug\K DragonArmy.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\K DragonArmy\obj\Debug\K DragonArmy.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DictionariesLinQ\K DragonArmy\obj\Debug\K DragonArmy.pdb

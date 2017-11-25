@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\06 Sum Big Numbers\bin\Debug\06 Sum Big Numbers.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\06 Sum Big Numbers\bin\Debug\06 Sum Big Numbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\06 Sum Big Numbers\bin\Debug\06 Sum Big Numbers.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\06 Sum Big Numbers\obj\Debug\06 Sum Big Numbers.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\06 Sum Big Numbers\obj\Debug\06 Sum Big Numbers.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Strings and Text Processing\06 Sum Big Numbers\obj\Debug\06 Sum Big Numbers.pdb

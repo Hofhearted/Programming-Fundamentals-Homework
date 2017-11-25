@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Lists\01 MaxSequenceOfEqualElements\bin\Debug\01 MaxSequenceOfEqualElements.exe.config
+D:\Games\Games\Information\Projects\Software University\Lists\01 MaxSequenceOfEqualElements\bin\Debug\01 MaxSequenceOfEqualElements.exe
+D:\Games\Games\Information\Projects\Software University\Lists\01 MaxSequenceOfEqualElements\bin\Debug\01 MaxSequenceOfEqualElements.pdb
+D:\Games\Games\Information\Projects\Software University\Lists\01 MaxSequenceOfEqualElements\obj\Debug\01 MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Lists\01 MaxSequenceOfEqualElements\obj\Debug\01 MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Lists\01 MaxSequenceOfEqualElements\obj\Debug\01 MaxSequenceOfEqualElements.exe
+D:\Games\Games\Information\Projects\Software University\Lists\01 MaxSequenceOfEqualElements\obj\Debug\01 MaxSequenceOfEqualElements.pdb

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\R DifferentIntSize\obj\Debug\R DifferentIntSize.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\R DifferentIntSize\bin\Debug\R DifferentIntSize.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\R DifferentIntSize\bin\Debug\R DifferentIntSize.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\R DifferentIntSize\bin\Debug\R DifferentIntSize.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\R DifferentIntSize\obj\Debug\R DifferentIntSize.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\DataTypesAndVariables\R DifferentIntSize\obj\Debug\R DifferentIntSize.pdb

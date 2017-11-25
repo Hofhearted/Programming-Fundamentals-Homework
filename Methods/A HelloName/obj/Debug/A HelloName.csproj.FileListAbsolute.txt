@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\A HelloName\bin\Debug\A HelloName.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\A HelloName\bin\Debug\A HelloName.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\A HelloName\bin\Debug\A HelloName.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\A HelloName\obj\Debug\A HelloName.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\A HelloName\obj\Debug\A HelloName.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\A HelloName\obj\Debug\A HelloName.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\A HelloName\obj\Debug\A HelloName.pdb

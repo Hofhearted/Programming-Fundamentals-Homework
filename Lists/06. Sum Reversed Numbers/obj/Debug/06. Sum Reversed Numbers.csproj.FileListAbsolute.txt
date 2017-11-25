@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Lists\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe.config
+D:\Games\Games\Information\Projects\Software University\Lists\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe
+D:\Games\Games\Information\Projects\Software University\Lists\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.pdb
+D:\Games\Games\Information\Projects\Software University\Lists\06. Sum Reversed Numbers\obj\Debug\06. Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Lists\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.exe
+D:\Games\Games\Information\Projects\Software University\Lists\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.pdb

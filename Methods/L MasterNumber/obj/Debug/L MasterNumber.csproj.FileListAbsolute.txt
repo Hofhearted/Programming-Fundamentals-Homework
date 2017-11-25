@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\L MasterNumber\bin\Debug\L MasterNumber.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\L MasterNumber\bin\Debug\L MasterNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\L MasterNumber\bin\Debug\L MasterNumber.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\L MasterNumber\obj\Debug\L MasterNumber.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\L MasterNumber\obj\Debug\L MasterNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Fundamentals Homework\Methods\L MasterNumber\obj\Debug\L MasterNumber.pdb

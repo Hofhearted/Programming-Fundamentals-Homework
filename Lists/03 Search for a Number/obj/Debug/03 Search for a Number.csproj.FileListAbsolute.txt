@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Lists\03 Search for a Number\bin\Debug\03 Search for a Number.exe.config
+D:\Games\Games\Information\Projects\Software University\Lists\03 Search for a Number\bin\Debug\03 Search for a Number.exe
+D:\Games\Games\Information\Projects\Software University\Lists\03 Search for a Number\bin\Debug\03 Search for a Number.pdb
+D:\Games\Games\Information\Projects\Software University\Lists\03 Search for a Number\obj\Debug\03 Search for a Number.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Lists\03 Search for a Number\obj\Debug\03 Search for a Number.exe
+D:\Games\Games\Information\Projects\Software University\Lists\03 Search for a Number\obj\Debug\03 Search for a Number.pdb
